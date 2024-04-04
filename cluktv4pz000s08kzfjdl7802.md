@@ -184,11 +184,11 @@ Illustrating the group concept:
 3. **Add Your Users**: Place all users who require read-only access to S3 in this group for organized and safe permissions.
     
 
-### Takeaway 🎉
+## Takeaway 🎉
 
 With a secure AWS account, navigation skills, CLI usage, and understanding IAM fundamentals, you're well-equipped. Practice by starting a project, like setting up a simple website on S3 or a web server with EC2. Let your skills and confidence grow with each challenge!
 
-### Need More Guidance?
+## Need More Guidance?
 
 * **AWS Documentation**: The comprehensive and updated source of all knowledge.
     
