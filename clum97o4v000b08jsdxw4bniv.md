@@ -6,7 +6,6 @@ datePublished: Fri Apr 05 2024 05:57:26 GMT+0000 (Coordinated Universal Time)
 cuid: clum97o4v000b08jsdxw4bniv
 slug: discovering-the-linux-universe-an-introductory-manual-for-learning-and-embracing-the-open-source-operating-system
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1712296005244/4694e16a-3ba1-433b-881c-d1b8f0c946bc.webp
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1712296081868/5211371c-106a-423d-8bcd-9a0b87dd73de.webp
 tags: devops, linux-for-beginners, linux-basics, devops-articles, devops-journey, devopscommunity
 
 ---
